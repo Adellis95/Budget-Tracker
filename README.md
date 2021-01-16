@@ -1,5 +1,36 @@
 # Budget-Tracker
 
+[![Herkou link](https://img.shields.io/badge/Heroku%20link-%40Adellis95-orange)](https://infinite-thicket-96147.herokuapp.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Description
+
+Track your 
+
+## Acceptance Criteria
+
+GIVEN a user is on Budget App without an internet connection
+WHEN the user inputs a withdrawal or deposit
+THEN that will be shown on the page, and added to their transaction history when their connection is back online.
+
+---
+
+Offline Functionality:
+
+- Enter deposits offline
+
+- Enter expenses offline
+
+When brought back online:
+
+- Offline entries should be added to tracker.
+
+## User Story
+
+AS AN avid traveller
+I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
+SO THAT my account balance is accurate when I am traveling
+
 ## License
 
 MIT License
