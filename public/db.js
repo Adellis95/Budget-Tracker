@@ -20,6 +20,13 @@ request.onerror = function (event) {
     console.log("Woops " + event.target.errorCode);
 };
 
+function saveRecord(record) {
+    const transaction = db.transaction(["[ending"], "readwrite");
+    const store = transaction.objectStore("pending");
+
+    store.add(record);
+}
+
 function checkDatabase() {
     const transaction = db.transaction(["pending"], "readwrite");
     const store = transaction.objectStore("pending");
@@ -37,6 +44,7 @@ function checkDatabase() {
             })
             .then(response => response.json())
             .then(() => {
+                // delete records if successful
                 const transaction = db.transaction(["pending"], "readwrite");
                 const store = transaction.objectStore("pending");
                 store.clear();
