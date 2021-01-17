@@ -45,7 +45,8 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Demos
 
-![Demo]()
+![Demo](Demo1.gif)
+![Demo](Demo2.gif)
 
 ## License
 
