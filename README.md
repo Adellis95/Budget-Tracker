@@ -3,9 +3,13 @@
 [![Herkou link](https://img.shields.io/badge/Heroku%20link-%40Adellis95-orange)](https://infinite-thicket-96147.herokuapp.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+<p align="center">
+    <a href="https://infinite-thicket-96147.herokuapp.com/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+</p>
+
 ## Description
 
-Track your
+For an existing Budget Tracker application, code was implemented to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a internet connection. When the user enters transactions offline, they populate the total on a chart when the application is brought back online. Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
 ## Table of Contents
 
@@ -13,7 +17,6 @@ Track your
 - [Acceptance-Criteria](#acceptance-criteria)
 - [User-Story](#user-story)
 - [Demos](#demos)
-- [Installation](#installation)
 - [License](#license)
 
 ## Acceptance Criteria
