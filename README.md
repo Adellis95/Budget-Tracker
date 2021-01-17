@@ -5,7 +5,16 @@
 
 ## Description
 
-Track your 
+Track your
+
+## Table of Contents
+
+- [Description](#description)
+- [Acceptance-Criteria](#acceptance-criteria)
+- [User-Story](#user-story)
+- [Demos](#demos)
+- [Installation](#installation)
+- [License](#license)
 
 ## Acceptance Criteria
 
@@ -30,6 +39,10 @@ When brought back online:
 AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
 SO THAT my account balance is accurate when I am traveling
+
+## Demos
+
+![Demo]()
 
 ## License
 
