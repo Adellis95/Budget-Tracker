@@ -1,10 +1,10 @@
 # Budget-Tracker
 
-[![Herkou link](https://img.shields.io/badge/Heroku%20link-%40Adellis95-orange)](https://infinite-thicket-96147.herokuapp.com/)
+[![Herkou link](https://img.shields.io/badge/Heroku%20link-%40Adellis95-orange)](https://safe-inlet-13970.herokuapp.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-    <a href="https://infinite-thicket-96147.herokuapp.com/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+    <a href="https://safe-inlet-13970.herokuapp.com/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
 </p>
 
 ## Description
